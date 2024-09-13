@@ -1,0 +1,41 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+    color: #333;
+}
+
+section {
+    padding: 40px;
+    text-align: center;
+}
+
+h2 {
+    color: #444;
+    margin-bottom: 40px;
+}
+
+.achievement {
+    display: inline-block;
+    margin: 20px;
+    max-width: 300px;
+    text-align: left;
+}
+
+.achievement img {
+    width: 100%; 
+    height: 200px; 
+    object-fit: cover; 
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.achievement h3 {
+    color: ;
+    margin-top: 15px;
+}
+
+.achievement p {
+    color: white;
+}
